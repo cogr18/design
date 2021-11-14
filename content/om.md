@@ -6,5 +6,5 @@ Robots: noindex, nofollow
 Order: 2
 ---
 
-Om sidan
+Om denna kurs
 ==========================
