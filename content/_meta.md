@@ -1,8 +1,8 @@
 ---
 Logo: image/leaf_256x256.png
-Tagline: My portfolio.
+Tagline: Always a student
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+    - title: Link till sidans GitHub-repo.
+      url: https://github.com/cogr18/design
       icon: github
 ---
