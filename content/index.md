@@ -2,7 +2,7 @@
 Title: Hem
 Description: This is our index page
 Author: Rickard Grönholm
-Robots: noindex,nofollow
+Robots: noindex, nofollow
 Order: 0
 ---
 

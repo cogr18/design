@@ -2,7 +2,7 @@
 Title: Om
 Description: Site description
 Author: Rickard Grönholm
-Robots: noindex,nofollow
+Robots: noindex, nofollow
 Order: 2
 ---
 
