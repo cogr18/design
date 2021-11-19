@@ -13,7 +13,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 /* External modules */
-/*@import '../../shared/fonts/font-awesome';*/
+@import '../../shared/css/font-awesome.min.css';
 
 /* Internal modules */
 @import 'typography';
@@ -23,4 +23,3 @@
 @import 'blockquotes';
 @import 'code';
 @import 'mobile';
-

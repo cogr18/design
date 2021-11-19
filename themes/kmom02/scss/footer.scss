@@ -1,9 +1,22 @@
 
+
+.footer .social {
+    font-size: 2rem;
+}
+
+.footer {
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
 .footer a {
     color: #222;
 }
 
-.footer .social {
-    font-size: 2rem;
+.social {
+    display: flex;
+    column-gap: 1em;
 }
 

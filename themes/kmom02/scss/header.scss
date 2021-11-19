@@ -1,24 +1,43 @@
-.title p {
-    font-style: italic;
+.header {
+    margin: 2em 0;
+}
+
+.header,
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    display: none;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+.nav ul {
+    display: flex;
+    column-gap: 2em;
 }
 
 .nav a {
     text-decoration: none;
     font-size: 1.3rem;
-}
-
-.nav a {
     text-decoration: none;
     transition: color 0.3s linear;
-    -webkit-transition: color 0.3s linear;
-    -moz-transition: color 0.3s linear;
 }
 
 .nav a:hover {
-    color: #9400D3;
+    color: #9400d3;
 }
 
 .active {
-    color: #9400D3;
+    color: #9400d3;
 }
- 
+
+
+
+
