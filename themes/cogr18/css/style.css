@@ -66,9 +66,9 @@ ul {
     display: none !important;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
+
+.site-header .title {
+    display: none;
 }
 
 .header {
@@ -76,8 +76,10 @@ body {
     padding: 0 4em 0 0.5em;
 }
 
-.site-header .title {
-    display: none;
+
+body {
+    display: flex;
+    flex-direction: column;
 }
 
 .main {
